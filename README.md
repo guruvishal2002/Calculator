@@ -1,74 +1,60 @@
-# Calculator
 
-A simple calculator web application built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and features a clean, modern design.
+# Calculator Web Application
 
-**Features**
+A simple and user-friendly calculator web application built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and features a clean, modern design.
 
-**Basic arithmetic operations:** addition, subtraction, multiplication, and division
+## Features
 
-Percentage calculations
+- **Basic Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
+- **Percentage Calculations:** Easily calculate percentages.
+- **Clear and Delete Buttons:** Clear the entire input or delete the last character.
+- **Responsive Design:** A user-friendly interface that adapts to different screen sizes.
 
-Clear and delete buttons
+## Technologies Used
 
-User-friendly interface with responsive design
+- **HTML:** For the structure of the web application.
+- **CSS:** For styling the calculator.
+- **JavaScript:** For implementing the calculator's functionality.
 
-
-**Technologies Used**
-
-HTML for the structure
-
-CSS for styling
-
-JavaScript for functionality
-
-**_Installation_**
+## Installation
 
 To run the calculator app locally, follow these steps:
 
-**Clone the repository:**
+### Clone the Repository
 
-git clone  
+```bash
+git clone https://github.com/yourusername/calculator-app.git
 ```
-https://github.com/yourusername/calculator-app.git  
-```
-**Navigate to the project directory:**
 
-```
+### Navigate to the Project Directory
+
+```bash
 cd calculator-app
 ```
-Open the index.html file in your web browser.
 
-You can open it directly from your file explorer or use a local server if you have one set up.
+### Open the Application
 
+Open the `index.html` file in your web browser. You can open it directly from your file explorer or use a local server if you have one set up.
 
-**File Structure**
+## File Structure
 
-**index.html:** The main HTML file that contains the structure of the calculator.
+- **index.html:** The main HTML file containing the structure of the calculator.
+- **style.css:** The CSS file responsible for styling the calculator.
+- **first.js:** The JavaScript file that contains the calculator's functionality.
 
-**style.css:** The CSS file for styling the calculator.
+## Usage
 
-**first.js:** The JavaScript file that contains the functionality for the calculator.
+- **Basic Operations:** Click the number buttons and arithmetic operators (+, -, *, /) to build your calculation expression.
+- **Evaluate Expression:** Click the `=` button to calculate the result.
+- **Clear Input:** Click the `AC` button to clear the input.
+- **Delete Last Character:** Click the `DEL` button to delete the last character from the input.
 
-
-**Usage**
-
-**Basic Operations:** Click the number buttons and the arithmetic operators (+, -, *, /) to build your calculation expression.
-
-**Evaluate Expression:** Click the = button to calculate the result.
-
-**Clear Input:** Click the AC button to clear the input.
-
-**Delete Last Character:** Click the DEL button to delete the last character from the input.
-
-**Example**
+## Example
 
 Here is a quick example of how to use the calculator:
 
--Click 5, *, 3, = to get the result 15.
-
--Click 7, +, 8, = to get the result 15.
-
--Use AC to clear the display.
-
+- Click `5`, `*`, `3`, `=` to get the result `15`.
+- Click `7`, `+`, `8`, `=` to get the result `15`.
+- Use `AC` to clear the display.
 
 
